@@ -8,6 +8,7 @@
   font-family: "Open Sans", sans-serif;
   font-weight: 700;
   margin-bottom: 5.7rem;
+  text-decoration: none;
 }
 .pink-btn:hover {
   opacity: 0.5;
@@ -42,6 +43,8 @@ html {
   font-size: 1rem;
   font-family: "Poppins", sans-serif;
   font-weight: 600;
+  text-decoration: none;
+  color: #00252e;
 }
 .hero__trial-btn:hover {
   opacity: 0.8;
@@ -56,6 +59,7 @@ html {
   line-height: 3.2rem;
   width: 90%;
   margin: 0 auto 2.6rem;
+  color: #00252e;
 }
 .hero__text {
   font-family: "Open Sans", sans-serif;
@@ -91,6 +95,7 @@ html {
 .feature-card__title {
   font-family: "Poppins", sans-serif;
   font-size: 2rem;
+  color: #00252e;
 }
 .feature-card__text {
   font-family: "Open Sans", sans-serif;
@@ -124,6 +129,7 @@ html {
   box-shadow: 2px 2px 1rem #00000036;
   width: 95%;
   max-width: 80rem;
+  color: #00252e;
 }
 .question-container .pink-btn {
   margin: 0;
