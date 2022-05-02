@@ -6,7 +6,7 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
 
 ![](./design/desktop-preview.jpg)
 
-Link:
+Link: https://lino-otm.github.io/Huddle-landing-page-with-alternating-feature-blocks/
 
 ### Built with:
 
