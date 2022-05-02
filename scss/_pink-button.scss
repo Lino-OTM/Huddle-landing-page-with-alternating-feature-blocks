@@ -1,6 +1,7 @@
 @use "colors";
 
 .pink-btn {
+  display: inline-block;
   padding: 2rem 5rem;
   background-color: colors.$pink;
   color: #ffffff;
